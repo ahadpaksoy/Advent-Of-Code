@@ -5,7 +5,7 @@ pattern = re.compile(r'\d', re.UNICODE)
 # Define calibration sum  
 sum = 0
 # Open the file for reading
-with open('C:\\Users\\Ahad Can PAKSOY\\OneDrive\\Masaüstü\\Advent-Of-Code\\day_1\\file.txt', 'r', encoding='utf-8') as file:
+with open('file.txt', 'r', encoding='utf-8') as file:
     # Process each line in the file
     for line in file:
         # Use the pattern to search for matches in the current line
