@@ -19,7 +19,7 @@ To get started with Advent of Code, visit the [Advent of Code website](https://a
 
 ## Structure of the Repository
 
-/advent-of-code-challenges
+/advent-of-code-challenges\
 ├── year\
 │ ├── day1\
 │ │ ├── part1\
